@@ -1,0 +1,8 @@
+Contributers:
+Himank Deka
+
+Contributing:
+You can contribute on my GitHub repository.
+
+Account name: dev-hd11
+Repository name: PyTextGame

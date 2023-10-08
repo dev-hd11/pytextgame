@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PyTextGame"
+version = "1.0.0"
+authors = [
+  { name="Himank Deka", email="neil.himank3@gmail.com" },
+]
+description = "A package for building text based games."
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3.11",
+    "License :: OSI Approved :: GNU AGPL v3",
+    "Operating System :: Windows",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/dev-hd11/"
+"Bug Tracker" = "https://github.com/dev-hd11/"
