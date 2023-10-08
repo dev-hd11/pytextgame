@@ -1,3 +1,10 @@
+"""
+Copyright (c) 2023 Himank Deka & Contributers [See CONTRIBUTERS.txt]
+"""
+"""
+This file contains the Playground class which is the most important thing in the game.
+"""
+
 from components.compartments import Room, Door
 
 class Playground :

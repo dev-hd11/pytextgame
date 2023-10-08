@@ -1,3 +1,10 @@
+"""
+Copyright (c) 2023 Himank Deka & Contributers [See CONTRIBUTERS.txt]
+"""
+"""
+This file contains the frames and the necessary components that will be displayed to the user.
+"""
+
 import os
 import dat 
 

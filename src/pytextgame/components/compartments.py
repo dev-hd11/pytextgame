@@ -1,3 +1,10 @@
+"""
+Copyright (c) 2023 Himank Deka & Contributers [See CONTRIBUTERS.txt]
+"""
+"""
+This file has components for creating rooms and all necessary components.
+"""
+
 from components.errors import *
 
 class Door :
