@@ -40,9 +40,9 @@ See [CONTRIBUTERS](./CONTRIBUTERS.txt).
 **Version: 1.0.0** : <br>
 All the base features mentioned in the [Features section](#features).
 <br><br>
-> [ ! WARNING]
+> [!WARNING]
 > This package has been tested on Python 3.11 & 3.12.
 > Some features are designed only for Windows (10 & 11).
->[ ! IMPORTANT]
+>[!IMPORTANT]
 > Project is currently under development.
 > Not available on PyPi currently.
