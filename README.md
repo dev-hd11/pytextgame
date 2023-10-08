@@ -41,8 +41,9 @@ See [CONTRIBUTERS](./CONTRIBUTERS.txt).
 All the base features mentioned in the [Features section](#features).
 <br><br>
 > [!WARNING]
-> This package has been tested on Python 3.11 & 3.12.
-> Some features are designed only for Windows (10 & 11).
+> This package has been tested on Python 3.11 & 3.12.<br>
+> Some features are designed only for Windows (10 & 11).<br>
+
 >[!IMPORTANT]
-> Project is currently under development.
-> Not available on PyPi currently.
+> Project is currently under development.<br>
+> Not available on PyPi currently.<br>
