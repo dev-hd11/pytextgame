@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/dev-hd11/"
-"Bug Tracker" = "https://github.com/dev-hd11/"
+"Homepage" = "https://github.com/dev-hd11/pytextgame"
+"Bug Tracker" = "https://github.com/dev-hd11/pytextgame/issues"
