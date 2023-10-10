@@ -1,5 +1,5 @@
 Contributers:
-Himank Deka
+Himank Deka - Owns all the source code and resources.
 
 Contributing:
 You can contribute on my GitHub repository.
