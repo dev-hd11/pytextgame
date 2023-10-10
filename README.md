@@ -6,10 +6,15 @@
 ©️ Himank Deka & Contributors (check [CONTRIBUTERS](./CONTRIBUTERS.txt))
 
 ## 🪶Features
-- Components
-- Console-based
+- Gaming Components
+- Console-based & Graphic
 - Multi genre
 - Efficient
+- For both personal and commercial use
+- Reducing development time
+- Lifetime support
+- Light on RAM & Storage
+- One stop solution for game devs!
 
 ## 📩Installation
 1. Create a new Python virtual environment :
