@@ -1,7 +1,7 @@
 # PyTextGame
 
 ## 👋🏼Introduction
-**PyTextGame** is a python library which can be used to develop text based games. It contains several features for making text-based game development fast.
+**PyTextGame** is a python library which can be used to develop text based games alomg with game logic for commercial games [Both graphic and console-based]. It contains several features for making game development 3x faster.
 <br><br>
 ©️ 2023, Himank Deka & Contributors (check [CONTRIBUTERS](./CONTRIBUTERS.txt)) [All source code and resources]
 <br> All rights reserved.
