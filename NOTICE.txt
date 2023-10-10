@@ -13,3 +13,5 @@
 
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+NOTE - IT IS MANDATORY TO ADD THIS FILE TO EACH COPY OF THIS 'WORK' OR ANY 'DERIVED WORK' OR ELSE IT WILL BE CONSIDERED AS COPYRIGHT INFRIGMENT AND THE OFFENDER WILL HAVE TO FACE LEGAL CONSEQUENCES [See LICENSE](./LICENSE.txt)
