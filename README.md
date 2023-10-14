@@ -1,5 +1,5 @@
 # PyTextGame
-![Pytextgame image](./images/framework_photo.png)
+![Pytextgame image](images/framework_photo.png)
 ## 👋🏼Introduction
 **PyTextGame** is a python library which can be used to develop text based games alomg with game logic for commercial games [Both graphic and console-based]. It contains several features for making game development 3x faster.
 <br><br>
