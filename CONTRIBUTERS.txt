@@ -1,8 +1,15 @@
 Contributers:
-Himank Deka - Owns all the source code and resources.
+Himank Deka [@dev-hd11]
 
 Contributing:
 You can contribute on my GitHub repository.
+
+Acknowledgements :
+Photos edited by: www.fotor.com & Microsoft Paint
+
+Photos provided by:
+1. www.freepik.com
+2. www.hp.com
 
 Account name: dev-hd11
 Repository name: PyTextGame
