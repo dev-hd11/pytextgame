@@ -9,10 +9,7 @@ from tkinter import *
 from tkinter import messagebox
 
 
-file = open("./settings.json", "r")
-data = js.load(file)
-file.close()
-    
+
 
 def main() :
     root = Tk()

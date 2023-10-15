@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61.0", "wheel", "Pillow"]
+requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -24,4 +24,4 @@ classifiers = [
 
 [package.data.include]
 # List files or directories to include in the package
-include = ["./src/pytextgame/pytextgame_w.pyw", "images/*"]
+include = ["./src/pytextgame/pytextgame_w.pyw"]
