@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "PyTextGame"
-version = "1.1.0.b.2"
+version = "1.1.0.b.3"
 authors = [
   { name="Himank Deka", email="neil.himank3@gmail.com" },
 ]
-description = "A package for building text based games."
+description = "A package for building text based games and commercial GUI game logic."
 readme = "README.md"
 requires-python = ">=3.11"
 classifiers = [
@@ -24,4 +24,4 @@ classifiers = [
 
 [package.data.include]
 # List files or directories to include in the package
-include = ["./src/pytextgame/pytextgame_w.pyw", "./src/pytextgame/settings.json", "images/*"]
+include = ["./src/pytextgame/pytextgame_w.pyw", "images/*"]

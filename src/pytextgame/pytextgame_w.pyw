@@ -7,8 +7,6 @@ Copyright (c) 2023 Himank Deka & Contributers [See CONTRIBUTERS.txt]
 
 from tkinter import *
 from tkinter import messagebox
-from PIL import Image, ImageTk
-import json as js
 
 
 file = open("./settings.json", "r")
@@ -45,14 +43,7 @@ def main() :
     desc.pack(pady = 5)
 
     def close() :
-        m = messagebox.askyesno(title = "PyTextGame", message = "Do you want to see this box again")
-        if m:
-            file2 = open("./settings.json", "w")
-            data["show"] = "no"
-            js.dump(data, file2)
-            file.close()
-        else :
-            pass
+        m = messagebox.showwarning(title = "PyTextGame", message = "Edit the pytextgame_w.pyw file to remove this!")
         root.destroy()
     
     but = Button(
@@ -77,12 +68,7 @@ def main() :
     root.mainloop()
     
 
-if data.get("show") == "yes" :
-    main()
-
-else :
-    pass
-    
+main()  
 
     
     
