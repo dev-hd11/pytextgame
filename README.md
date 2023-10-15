@@ -36,7 +36,7 @@ pip install pytextgame
 4. Import what ever you want!<br>
 Example :
 ```python
-from pytextgame.compartments import *
+from pytextgame.main import *
 ```
 
 ## 🤝Contributing
