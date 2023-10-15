@@ -30,7 +30,7 @@ myenv/Scripst/activate.bat
 
 3. Install PyTextGame in the venv :
 ```bash
-pip install pytextgame_og
+pip install pytextgame
 ```
 
 4. Import what ever you want!<br>
