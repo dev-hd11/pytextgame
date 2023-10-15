@@ -15,7 +15,7 @@ def main() :
     root = Tk()
 
     root.title("PyTextGame")
-    root.geometry("800x600")
+    root.geometry("800x400")
 
     greet = Label(
         root,
@@ -28,8 +28,6 @@ def main() :
 
     greet.pack(pady = 10)
 
-
-    img.pack(pady = 5)
 
     desc = Label(
         root,
