@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "PyTextGame"
-version = "1.1.0.b.6"
+version = "1.1.0.b.8"
 authors = [
   { name="Himank Deka", email="neil.himank3@gmail.com" },
 ]
