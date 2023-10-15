@@ -6,7 +6,7 @@ This file contains the Playground class which is the most important thing in the
 """
 
 from . import  pytextgame_w
-from components.compartments import Room, Door
+from pytextgame.components.compartments import Room, Door
 
 class Playground :
     def __init__(self, name, id = 0) :
