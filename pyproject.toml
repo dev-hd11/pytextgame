@@ -1,10 +1,10 @@
 [build-system]
-requires = ["setuptools>=61.0"]
+requires = ["setuptools>=61.0", "wheel", "Pillow"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "PyTextGame"
-version = "1.0.0"
+version = "1.1.0.b1"
 authors = [
   { name="Himank Deka", email="neil.himank3@gmail.com" },
 ]
@@ -13,10 +13,15 @@ readme = "README.md"
 requires-python = ">=3.11"
 classifiers = [
     "Programming Language :: Python :: 3.11",
-    "License :: OSI Approved :: GNU AGPL v3",
-    "Operating System :: Windows",
+    "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
+    "Operating System :: OS Independent",
 ]
 
 [project.urls]
 "Homepage" = "https://github.com/dev-hd11/pytextgame"
 "Bug Tracker" = "https://github.com/dev-hd11/pytextgame/issues"
+
+
+[package.data.include]
+# List files or directories to include in the package
+include = ["./src/pytextgame/pytextgame_w.pyw", "./src/pytextgame/settings.json", "images/*"]
