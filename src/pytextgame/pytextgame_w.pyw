@@ -11,7 +11,7 @@ from PIL import Image, ImageTk
 import json as js
 
 
-file = open("settings.json", "r")
+file = open("./settings.json", "r")
 data = js.load(file)
 file.close()
     
@@ -33,13 +33,6 @@ def main() :
 
     greet.pack(pady = 10)
 
-    upload = Image.open("D:/Coding/Visual Studio Projects/Python Projects/pytextgame/images/framework_photo.png")
-    uploadTk = ImageTk.PhotoImage(upload)
-
-    img = Label(
-        root,
-        image = uploadTk,
-    )
 
     img.pack(pady = 5)
 
@@ -54,7 +47,7 @@ def main() :
     def close() :
         m = messagebox.askyesno(title = "PyTextGame", message = "Do you want to see this box again")
         if m:
-            file2 = open("settings.json", "w")
+            file2 = open("./settings.json", "w")
             data["show"] = "no"
             js.dump(data, file2)
             file.close()
