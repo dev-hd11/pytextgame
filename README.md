@@ -7,6 +7,7 @@
 <br> All rights reserved.
 
 ## 🪶Features
+- Game development made easy
 - Gaming Components
 - Console-based & Graphic
 - Multi genre
