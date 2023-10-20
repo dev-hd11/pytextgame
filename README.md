@@ -41,7 +41,7 @@ from pytextgame.main import *
 ```
 
 ## 🤝Contributing
-See [CONTRIBUTERS](./CONTRIBUTERS.txt).
+See [CONTRIBUTING](./CONTRIBUTING.md).
 
 ## 🗒️Release Notes
 
