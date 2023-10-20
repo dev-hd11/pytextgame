@@ -43,6 +43,9 @@ from pytextgame.main import *
 ## 🤝Contributing
 See [CONTRIBUTING](./CONTRIBUTING.md).
 
+## 🔐 Security Policy :
+See [SECURITY](./SECURITY.md)
+
 ## 🗒️Release Notes
 
 ### 👩🏼‍💻Version: 1.0.0 BETA : 
