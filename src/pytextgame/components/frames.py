@@ -6,7 +6,7 @@ This file contains the frames and the necessary components that will be displaye
 """
 
 import os
-import pytextgame.components.dat 
+import pytextgame.components.dat as dat
 
 class Frame :
     def __init__(self, name, description, options) :

@@ -29,4 +29,5 @@ DEFEND = "defend"
 #YOU CAN CHANGE THIS
 INP_MSG = "Please enter your choice:"
 NOT_FOUND = "Thing you are looking for does not exist!"
+SHOW_WELCOME_BOX = True
 
