@@ -53,6 +53,7 @@ Some of the foundation features. Full verion will contain all the necessary feat
 <br>
 Full version will be hosted on PyPi. Downloading the full version through pip is recommended. Also available on GitHub \[@dev-hd11/pytextgame\]
 <br><br>
+
 ### 👩🏼‍💻 Version: 1.1.0 BETA :
 A PyPi release for the version 1.0.0 with an extra feature and some minor changes. Please wait for the full release if you want the complete package.
 You can download this using pip.
@@ -60,10 +61,21 @@ You can download this using pip.
 **New Features** :
 - A new GUI welcome box.
 
+### 👩🏼‍💻 Version: 1.1.1 BETA :
+A minor bug fix in `pytextgame.frames`. Also now you can close the welcome box by setting the `SHOW_WELCOME_BOX` to no.
+Syntax :
+```python
+from pytextgame.components import dat
+
+dat.SHOW_WELCOME_BOX = False
+
+#Do this before making the playground object
+# Rest of you code...
+```
 
 > [!WARNING]
 > This package has been tested on Python 3.11 & 3.12.<br>
-> Some features are designed only for Windows (10 & 11).<br>
+> Some features are designed only for Windows.<br>
 
 >[!IMPORTANT]
 > Project is currently under development.<br>
