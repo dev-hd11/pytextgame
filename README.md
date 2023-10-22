@@ -1,5 +1,20 @@
 # PyTextGame
 
+**Ultra python game development library! <br>Game development mad easier than ever!**
+
+## 📃Table of content
+1.[Introduction](#👋🏼introduction)
+2.[Features](#🪶features)
+3.[Installation](#📩installation)
+4.[Contributing](#🤝contributing)
+5.[Security Policy](#🔐-security-policy)
+6.[Release Notes](#🗒️release-notes)
+    - [Version 1.0.0 BETA](#👩🏼‍💻version-100-beta)
+    - [Version 1.1.0 BETA](#👩🏼‍💻-version-110-beta)
+    - [Version 1.1.1 BETA](#👩🏼‍💻-version-111-beta)
+
+7. [Notices](#🔔notices)
+
 ## 👋🏼Introduction
 **PyTextGame** is a python library which can be used to develop text based games alomg with game logic for commercial games [Both graphic and console-based]. It contains several features for making game development 3x faster.
 <br><br>
@@ -72,6 +87,8 @@ dat.SHOW_WELCOME_BOX = False
 #Do this before making the playground object
 # Rest of you code...
 ```
+
+## 🔔Notices
 
 > [!WARNING]
 > This package has been tested on Python 3.11 & 3.12.<br>
