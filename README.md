@@ -3,16 +3,15 @@
 **Ultra python game development library! <br>Game development mad easier than ever!**
 
 ## 📃Table of content
-1.[Introduction](#👋🏼introduction)
-2.[Features](#🪶features)
-3.[Installation](#📩installation)
-4.[Contributing](#🤝contributing)
-5.[Security Policy](#🔐-security-policy)
-6.[Release Notes](#🗒️release-notes)
-    - [Version 1.0.0 BETA](#👩🏼‍💻version-100-beta)
-    - [Version 1.1.0 BETA](#👩🏼‍💻-version-110-beta)
-    - [Version 1.1.1 BETA](#👩🏼‍💻-version-111-beta)
-
+1.[Introduction](#👋🏼introduction)<br>
+2.[Features](#🪶features)<br>
+3.[Installation](#📩installation)<br>
+4.[Contributing](#🤝contributing)<br>
+5.[Security Policy](#🔐-security-policy)<br>
+6.[Release Notes](#🗒️release-notes)<br>
+    - [Version 1.0.0 BETA](#👩🏼‍💻version-100-beta)<br>
+    - [Version 1.1.0 BETA](#👩🏼‍💻-version-110-beta)<br>
+    - [Version 1.1.1 BETA](#👩🏼‍💻-version-111-beta)<br>
 7. [Notices](#🔔notices)
 
 ## 👋🏼Introduction
