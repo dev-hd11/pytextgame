@@ -1,6 +1,6 @@
 # PyTextGame
 
-**Ultra python game development library! <br>Game development mad easier than ever!**
+**Ultra python game development library! <br>Game development made easier than ever!**
 
 ## 📃Table of content
 1.[Introduction](#introduction)<br>
