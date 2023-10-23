@@ -9,9 +9,9 @@
 4.[Contributing](#contributing)<br>
 5.[Security Policy](#security-policy)<br>
 6.[Release Notes](#release-notes)<br>
-    - [Version 1.0.0 BETA](#version-100-beta)<br>
-    - [Version 1.1.0 BETA](#-version-110-beta)<br>
-    - [Version 1.1.1 BETA](#-version-111-beta)<br>
+    - [Version 1.0.0 BETA](#version-100-beta-)<br>
+    - [Version 1.1.0 BETA](#version-110-beta-)<br>
+    - [Version 1.1.1 BETA](#version-111-beta-)<br>
 7. [Notices](#notices)
 
 ## 👋🏼Introduction
