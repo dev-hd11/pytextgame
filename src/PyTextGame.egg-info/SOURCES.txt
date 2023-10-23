@@ -1,6 +1,10 @@
+CODE_OF_CONDUCT.md
+CONTRIBUTERS.txt
+CONTRIBUTING.md
 LICENSE.txt
 NOTICE.txt
 README.md
+SECURITY.md
 pyproject.toml
 src/pytextgame.py
 src/PyTextGame.egg-info/PKG-INFO
