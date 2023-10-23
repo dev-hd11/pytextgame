@@ -6,7 +6,7 @@ We are supporting these versions for security updates:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.0.0   | ✅ |
+| 1.1.1   | ✅ |
 | 1.1.0   | ✅                |
 | 1.0.0   | ❎            |
 
