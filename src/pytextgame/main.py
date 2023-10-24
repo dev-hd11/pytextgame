@@ -4,18 +4,17 @@ Copyright (c) 2023 Himank Deka & Contributers [See CONTRIBUTERS.txt]
 """
 This file contains the Playground class which is the most important thing in the game.
 """
-from pytextgame.components import dat
 from pytextgame.components.compartments import Room, Door
 from pytextgame.actors.charecter import Hero
 
 
 class Playground :
-    def __init__(self, name: str, id: int = 0) :
+    def __init__(self, name: str, id: int = 0, show_welcome_box: bool = True) :
         self.id = id
         self.name = name
         self.entry = None
         
-        if dat.SHOW_WELCOME_BOX :
+        if show_welcome_box :
             from . import pytextgame_w
             
         else :

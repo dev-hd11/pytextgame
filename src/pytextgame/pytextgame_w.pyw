@@ -38,7 +38,7 @@ def main() :
     desc.pack(pady = 5)
 
     def close() :
-        m = messagebox.showwarning(title = "PyTextGame", message = "Edit the pytextgame_w.pyw file to remove this!")
+        m = messagebox.showwarning(title = "PyTextGame", message = "Pass the show_message_box arg as False in Playground().__init__()")
         root.destroy()
     
     but = Button(

@@ -34,7 +34,7 @@ class Charecter :
         other.takeDamage(weapon)
         
     def takeDamage(self, other_weapon: items.Weapon) :
-        self.cur_health -= other_weapon.getDamage()
+        other_weapon.fire(self, False)
         
     def deposit(self, amount: int) :
         self.balance += amount
@@ -47,21 +47,31 @@ class Charecter :
             self.balance -= amount
             return amount
         
+    def check_life(self, death_point) :
+        if self.cur_health <= death_point :
+            return True
+        
+        else :
+            return False
+        
     
 DEFAULT_WEAPON = items.Weapon(
     name = "fist",
+    desc = "Teach them with your hands",
+    present_lv = 0,
     damage = 1,
     random = False,
     price = 0
 )
 
 class Hero (Charecter) :
-    def __init__(self,name: str, 
+    def __init__(self,
+                 name: str, 
                  desc: str, weapons: list[items.Weapon], 
                  portions: list[items.Portion],
                  money: float = 0,
                  health: float = 100,
-                 armour = items.Armour, 
+                 armour: items.Armour = None, 
                  cur_weapon: items.Weapon = DEFAULT_WEAPON,
                  items_in: list[items.Item] = []
                  ) :
@@ -90,8 +100,8 @@ class Hero (Charecter) :
                 else :
                     self.cur_health += i.getRevival()
                     
+                    
     def takeDamage(self, other_weapon: items.Weapon):
-        damage = other_weapon.getDamage() - self.armour.protect()
-        self.cur_health -= damage
+        other_weapon.fire(self, True, self.armour)
         
 
