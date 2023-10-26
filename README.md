@@ -2,7 +2,7 @@
 
 **Ultra python game development library! <br>Game development made easier than ever!**
 
-**Announcement: Now PyTextGame is also available on SourceForge. Please visit [the official page in SourceForge](https://pytextgame.sourceforge.io).
+**Announcement: Now PyTextGame is also available on SourceForge. Please visit [the official page in SourceForge](https://pytextgame.sourceforge.io).**
 ## 📃Table of content
 1.[Introduction](#introduction)<br>
 2.[Features](#features)<br>
