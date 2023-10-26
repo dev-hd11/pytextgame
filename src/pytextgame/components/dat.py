@@ -1,7 +1,5 @@
 """
 Use this file to set messages and constants. Edit it according to your convieniece.
-"""
-"""
 Copyright (c) 2023 Himank Deka & Contributers [See CONTRIBUTERS.txt]
 """
 

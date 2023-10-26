@@ -1,7 +1,5 @@
 ﻿"""
 File to display welcome message.
-"""
-"""
 Copyright (c) 2023 Himank Deka & Contributers [See CONTRIBUTERS.txt]
 """
 

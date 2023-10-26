@@ -1,7 +1,5 @@
 """
 Copyright (c) 2023 Himank Deka & Contributers [See CONTRIBUTERS.txt]
-"""
-"""
 This file contains the exceptions that will be shown if there is error in the code.
 """
 
