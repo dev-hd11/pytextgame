@@ -90,7 +90,10 @@ dat.SHOW_WELCOME_BOX = False
 ```
 
 ### 👩🏼‍💻 Version: Panthera v2 Tigris RC1 :
-Fixing the welcome box bug. Now you can directly pass the `show_welcome_box` argument as ```python False```.
+Fixing the welcome box bug. Now you can directly pass the `show_welcome_box` argument as 
+```python
+False
+``` 
 NEW FEATURES: New `Charecter` attributes in `pytextgame.actors.charecters` and `pytextgame.actors.items` package for different items such as `Armour`, `Weapon`.
 Please explore the code to learn more.
 This version is exclusively available in GitHub.
