@@ -21,4 +21,4 @@ Minor vulnerabilities might take some time to be fixed. Please don't hesitate to
 Please also attach some evidence such as screenshots or explainations so that we can go deep into it. 
 
 ## Notes
-All security updates will be applied to the Pantera v2 Tigris FULL. This version will be launched soon.
+All security updates will be applied to the Pantera v2 Tigris FULL - 2.0.0 . This version will be launched soon.
