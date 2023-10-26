@@ -6,8 +6,8 @@ We are supporting these versions for security updates:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| Panthera v2 Tigris FULL (Coming soon) | ✔️ |
-| Panthera v2 Tigris RC1 | ❌ |
+| Panthera v2 Tigris FULL - 2.0.0 (Coming soon) | ✔️ |
+| Panthera v2 Tigris RC1 - 2.0.0 | ❌ |
 | 1.1.1   | ❌ |
 | 1.1.0   | ❌                |
 | 1.0.0   | ❌            |
