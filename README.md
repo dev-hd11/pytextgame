@@ -12,7 +12,8 @@
 6.[Release Notes](#release-notes)<br>
 - [Version 1.0.0 BETA](#version-100-beta-)<br>
 - [Version 1.1.0 BETA](#-version-110-beta-)<br>
-- [Version 1.1.1 BETA](#-version-111-beta-)
+- [Version 1.1.1 BETA](#-version-111-beta-)<br>
+- [Version Panthera v2 Tigris RC1 \(GitHub Exclusive\)](#-version-panthera-v2-tigris-rc1-)
 7. [Notices](#notices)
 
 ## 👋🏼Introduction
@@ -88,6 +89,12 @@ dat.SHOW_WELCOME_BOX = False
 # Rest of you code...
 ```
 
+### 👩🏼‍💻 Version: Panthera v2 Tigris RC1 :
+Fixing the welcome box bug. Now you can directly pass the `show_welcome_box` argument as ```python False```.
+NEW FEATURES: New `Charecter` attributes in `pytextgame.actors.charecters` and `pytextgame.actors.items` package for different items such as `Armour`, `Weapon`.
+Please explore the code to learn more.
+This version is exclusively available in GitHub.
+
 ## 🔔Notices
 
 > [!WARNING]
@@ -95,7 +102,7 @@ dat.SHOW_WELCOME_BOX = False
 > Some features are designed only for Windows.<br>
 
 >[!IMPORTANT]
-> Project is currently under development.<br>
+> Project is currently in the last development.<br>
 
 >[!NOTE]
 > Live on PyPi currently.<br>
