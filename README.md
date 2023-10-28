@@ -1,4 +1,7 @@
-# PyTextGame
+<div align = "center">
+  <h1> PyTextGame </h1>
+</div>
+<hr>
 
 **Ultra python game development library! <br>Game development made easier than ever!**
 
