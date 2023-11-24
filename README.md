@@ -3,6 +3,14 @@
 </div>
 <hr>
 
+![PyPI - Downloads](https://img.shields.io/pypi/dm/PyTextGame)
+![GitHub License](https://img.shields.io/github/license/dev-hd11/pytextgame)
+![PyPI - Version](https://img.shields.io/pypi/v/PyTextGame)
+![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/PyPi/PyTextGame)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/PyTextGame)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/PyTextGame)
+
+
 **Ultra python game development library! <br>Game development made easier than ever!**
 
 **Announcement: Now PyTextGame is also available on SourceForge. Please visit [the official page in SourceForge](https://pytextgame.sourceforge.io).**
