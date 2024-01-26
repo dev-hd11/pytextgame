@@ -1,6 +1,4 @@
-<div align = "center">
-  <h1> PyTextGame </h1>
-</div>
+![Logo](pytextgame-high-resolution-logo-white.png)
 <hr>
 
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/PyTextGame)
