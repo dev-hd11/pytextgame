@@ -101,7 +101,7 @@ dat.SHOW_WELCOME_BOX = False
 # Rest of you code...
 ```
 
-### 👩🏼‍💻 Version: 2.0.0 Beta:
+### 👩🏼‍💻 Version: Gen-2 Beta:
 Fixing the welcome box bug. Now you can directly pass the `show_welcome_box` argument as 
 ```python
 False
