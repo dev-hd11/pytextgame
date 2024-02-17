@@ -30,7 +30,7 @@ The latest releases of this app will be available on [TechWorld](https://techwor
 7. [Notices](#notices)
 
 ## 👋🏼Introduction
-**PyTextGame** is a python library which can be used to develop text based games alomg with game logic for commercial games [Both graphic and console-based]. It contains several features for making game development 3x faster.
+**PyTextGame** is a python library which can be used to develop text based games. It contains several features for making text-based game development faster.
 <br><br>
 ©️ 2023, Himank Deka & Contributors (check [CONTRIBUTERS](./CONTRIBUTERS.txt)) [All source code and resources]
 <br> All rights reserved.
@@ -38,7 +38,6 @@ The latest releases of this app will be available on [TechWorld](https://techwor
 ## 🪶Features
 - Game development made easy
 - Gaming Components
-- Console-based & Graphic
 - Multi genre
 - Efficient
 - For both personal and commercial use
@@ -63,7 +62,7 @@ myenv/Scripst/activate.bat
 pip install pytextgame
 ```
 
-4. Import what ever you want!<br>
+4. Start developing you game!<br>
 Example :
 ```python
 from pytextgame.main import *
@@ -102,7 +101,7 @@ dat.SHOW_WELCOME_BOX = False
 # Rest of you code...
 ```
 
-### 👩🏼‍💻 Version: Panthera v2 Tigris RC1 - 2.0.0 :
+### 👩🏼‍💻 Version: 2.0.0 Beta:
 Fixing the welcome box bug. Now you can directly pass the `show_welcome_box` argument as 
 ```python
 False
