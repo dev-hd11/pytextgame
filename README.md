@@ -76,32 +76,7 @@ See [SECURITY](./SECURITY.md)
 
 ## 🗒️Release Notes
 
-### 👩🏼‍💻Version: 1.0.0 BETA : 
-Some of the foundation features. Full verion will contain all the necessary features mentioned in [Features section](#features).
-<br>
-Full version will be hosted on PyPi. Downloading the full version through pip is recommended. Also available on GitHub \[@dev-hd11/pytextgame\]
-<br><br>
-
-### 👩🏼‍💻 Version: 1.1.0 BETA :
-A PyPi release for the version 1.0.0 with an extra feature and some minor changes. Please wait for the full release if you want the complete package.
-You can download this using pip.
-<br><br>
-**New Features** :
-- A new GUI welcome box.
-
-### 👩🏼‍💻 Version: 1.1.1 BETA :
-A minor bug fix in `pytextgame.frames`. Also now you can close the welcome box by setting the `SHOW_WELCOME_BOX` to no.
-Syntax :
-```python
-from pytextgame.components import dat
-
-dat.SHOW_WELCOME_BOX = False
-
-#Do this before making the playground object
-# Rest of you code...
-```
-
-### 👩🏼‍💻 Version: Gen-2 Beta:
+### 👩🏼‍💻 Version: 0.1 Beta:
 Fixing the welcome box bug. Now you can directly pass the `show_welcome_box` argument as 
 ```python
 False
