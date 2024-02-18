@@ -23,7 +23,7 @@ The latest releases of this app will be available on [TechWorld](https://techwor
 4.[Contributing](#contributing)<br>
 5.[Security Policy](#security-policy)<br>
 6.[Release Notes](#release-notes)<br>
-- [Version 0.1 Beta](#-version-01-beta-)
+- [Version 0.1 Beta](#-version-01-beta)
 7. [Notices](#notices)
 
 ## 👋🏼Introduction
