@@ -14,6 +14,9 @@ src/PyTextGame.egg-info/top_level.txt
 src/pytextgame/__init__.py
 src/pytextgame/main.py
 src/pytextgame/pytextgame_w.pyw
+src/pytextgame/actors/__init__.py
+src/pytextgame/actors/charecter.py
+src/pytextgame/actors/items.py
 src/pytextgame/components/__init__.py
 src/pytextgame/components/compartments.py
 src/pytextgame/components/dat.py
