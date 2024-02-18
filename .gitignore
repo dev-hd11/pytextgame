@@ -362,8 +362,8 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-pyproject.toml
+*.toml
 src/PyTextGame.egg-info
-pytextgame.py
-pytextgame.sln
-pytextgame.pyproj
+src/pytextgame.py
+*.sln
+*.pyproj
