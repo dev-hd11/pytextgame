@@ -6,11 +6,7 @@ We are supporting these versions for security updates:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| Panthera v2 Tigris FULL - 2.0.0 (Coming soon) | ✔️ |
-| Panthera v2 Tigris RC1 - 2.0.0 | ❌ |
-| 1.1.1   | ❌ |
-| 1.1.0   | ❌                |
-| 1.0.0   | ❌            |
+| 0.1   | ❌            |
 
 ## Reporting a Vulnerability
 
@@ -21,4 +17,4 @@ Minor vulnerabilities might take some time to be fixed. Please don't hesitate to
 Please also attach some evidence such as screenshots or explainations so that we can go deep into it. 
 
 ## Notes
-All security updates will be applied to the Pantera v2 Tigris FULL - 2.0.0 . This version will be launched soon.
+All security updates will be applied to the  v1.0 . This version will be launched soon.

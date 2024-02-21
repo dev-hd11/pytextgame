@@ -14,7 +14,7 @@
 **Announcement: Now PyTextGame is also available on SourceForge. Please visit [the official page in SourceForge](https://pytextgame.sourceforge.io).**
 
 ## Alert
-The latest releases of this app will be available on [TechWorld](https://techworld856.godaddysites.com). Please go there to download them.
+Sorry! The old code, which was a prototype, is not available since we're rebuilding the project!
 
 ## 📃Table of content
 1.[Introduction](#introduction)<br>
@@ -32,7 +32,7 @@ The latest releases of this app will be available on [TechWorld](https://techwor
 ## 👋🏼Introduction
 **PyTextGame** is a python library which can be used to develop text based games. It contains several features for making text-based game development faster.
 <br><br>
-©️ 2023, Himank Deka & Contributors (check [CONTRIBUTERS](./CONTRIBUTERS.txt)) [All source code and resources]
+©️ 2023, Himank Deka [All source code and resources]
 <br> All rights reserved.
 
 ## 🪶Features
@@ -47,6 +47,10 @@ The latest releases of this app will be available on [TechWorld](https://techwor
 - One stop solution for game devs!
 
 ## 📩Installation
+### Dependecies
+- Numpy
+
+### Downloading
 1. Create a new Python virtual environment :
 ```bash
 python -m venv myenv
@@ -60,12 +64,6 @@ myenv/Scripst/activate.bat
 3. Install PyTextGame in the venv :
 ```bash
 pip install pytextgame
-```
-
-4. Start developing you game!<br>
-Example :
-```python
-from pytextgame.main import *
 ```
 
 ## 🤝Contributing
@@ -89,10 +87,9 @@ This version is exclusively available in GitHub.
 
 > [!WARNING]
 > This package has been tested on Python 3.11 & 3.12.<br>
-> Some features are designed only for Windows.<br>
 
 >[!IMPORTANT]
-> Project is currently in the last development.<br>
+> Project is currently under development.<br>
 
 >[!NOTE]
 > Live on PyPi currently.<br>
