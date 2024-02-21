@@ -23,10 +23,7 @@ Sorry! The old code, which was a prototype, is not available since we're rebuild
 4.[Contributing](#contributing)<br>
 5.[Security Policy](#security-policy)<br>
 6.[Release Notes](#release-notes)<br>
-- [Version 1.0.0 BETA](#version-100-beta-)<br>
-- [Version 1.1.0 BETA](#-version-110-beta-)<br>
-- [Version 1.1.1 BETA](#-version-111-beta-)<br>
-- [Version Panthera v2 Tigris RC1 \(GitHub Exclusive\) - 2.0.0](#-version-panthera-v2-tigris-rc1-)
+- [Version 0.1 Beta](#-version-01-beta)
 7. [Notices](#notices)
 
 ## 👋🏼Introduction
