@@ -1,5 +1,5 @@
     PyTextGame this is a python library used for making simple text based games.
-    Copyright (C) 2023 Himank Deka (GitHub: @dev-hd11) & contributers [check CONTRIBUTORS]
+    Copyright (C) 2023 Himank Deka (GitHub: @dev-hd11) [check CONTRIBUTORS]
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
@@ -14,4 +14,4 @@
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-NOTE - IT IS MANDATORY TO ADD THIS FILE TO EACH COPY OF THIS 'WORK' OR ANY 'DERIVED WORK' OR ELSE IT WILL BE CONSIDERED AS COPYRIGHT INFRIGMENT AND THE OFFENDER WILL HAVE TO FACE LEGAL CONSEQUENCES [See LICENSE]
+NOTE - IT IS MANDATORY TO ADD THIS FILE TO EACH COPY OF THIS 'WORK' OR ANY 'DERIVED WORK' OR ELSE THE OFFENDER WILL HAVE TO FACE LEGAL CONSEQUENCES [See LICENSE]
