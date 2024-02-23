@@ -7,9 +7,10 @@ import sys
 VERSION = '0.3'
 
 class Playground :
-    def __init__(self, settings_file_path: str, windows: bool = True) :
+    def __init__(self, settings_file_path: str, map: list, windows: bool = True) :
         self.sfp = settings_file_path
         self.data = dict()
+        self.map = map
 
         ascii.clrscr()
         print(f"Built with PyTextGame v{VERSION}.\nCopyright (C) 2024 Himank Deka.\nGitHub: dev-hd11/pytextgame")
@@ -35,7 +36,3 @@ class Playground :
 
         except json.JSONDecodeError as e :
             print(f"Error loading file: {e}")
-
-    
-
-
