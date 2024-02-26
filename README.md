@@ -13,10 +13,6 @@
 
 **Announcement: Now PyTextGame is also available on SourceForge. Please visit [the official page in SourceForge](https://pytextgame.sourceforge.io).**
 
-## Alert
-Sorry! The old code, which was a prototype, is not available since we're rebuilding the project!<br>
-**Warning:** The current available version is just a prototype so it may not work. Please wait till we release a stable version.
-
 ## 📃Table of content
 1.[Introduction](#introduction)<br>
 2.[Features](#features)<br>
@@ -89,9 +85,6 @@ We are going to release a documentation on the package, so stay tuned!
 
 > [!WARNING]
 > This package has been tested on Python 3.11 & 3.12.<br>
-
->[!IMPORTANT]
-> Project is currently under development.<br>
 
 >[!NOTE]
 > Live on PyPi currently.<br>
