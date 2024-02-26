@@ -8,10 +8,10 @@ def g_title(txt: str, author: str, echo: bool = True) :
     title = decoration + " " * 5 + txt + " " * 5 + ENDL + decoration
 
     if echo :
-        print(title + ENDL + "By " + author)
+        print(title + ENDL + author)
 
     else :
-        return title + ENDL + "By " + author
+        return title + ENDL +  author
     
 def clrscr(windows: bool = True) :
     if windows :
