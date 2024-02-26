@@ -46,7 +46,7 @@ Sorry! The old code, which was a prototype, is not available since we're rebuild
 
 ## 📩Installation
 ### Dependecies
-- Numpy
+- Keyboard
 
 ### Downloading
 1. Create a new Python virtual environment :
