@@ -15,6 +15,7 @@
 
 ## Alert
 Sorry! The old code, which was a prototype, is not available since we're rebuilding the project!
+**Warning:** The current available version is just a prototype so it may not work. Please wait till we release a stable version.
 
 ## 📃Table of content
 1.[Introduction](#introduction)<br>
