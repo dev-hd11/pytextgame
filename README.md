@@ -14,7 +14,7 @@
 **Announcement: Now PyTextGame is also available on SourceForge. Please visit [the official page in SourceForge](https://pytextgame.sourceforge.io).**
 
 ## Alert
-Sorry! The old code, which was a prototype, is not available since we're rebuilding the project!
+Sorry! The old code, which was a prototype, is not available since we're rebuilding the project!<br>
 **Warning:** The current available version is just a prototype so it may not work. Please wait till we release a stable version.
 
 ## 📃Table of content
