@@ -79,7 +79,11 @@ False
 ``` 
 NEW FEATURES: New `Charecter` attributes in `pytextgame.actors.charecters` and `pytextgame.actors.items` package for different items such as `Armour`, `Weapon`.
 Please explore the code to learn more.
-This version is exclusively available in GitHub.
+
+## Version: 1.0.0 :
+This is the current stable version of Pytextgame. It contains features that you will require to build your game functionalities. Currently we have kept a few main features.<br>
+We will keep updating the project introducing more and more features. Currently the main genre targeted by this project is RPG games. We will expand to more genres in the future.<br>
+We are going to release a documentation on the package, so stay tuned!
 
 ## 🔔Notices
 
