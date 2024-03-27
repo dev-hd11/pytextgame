@@ -88,4 +88,4 @@ We are going to release a documentation on the package, so stay tuned!
 
 >[!NOTE]
 > Live on PyPi currently.<br>
-> Documentation coming soon!<br>
+> Documentation in Wiki!<br>
